@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campeh's Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            color: #3498db;
+        }
+
+        h2 {
+            color: #2ecc71;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            color: #95a5a6;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Yahye "Campeh" - Software Student</h1>
+        <p>Located in Ankara, Turkey</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hello! I'm Yahye, also known as Campeh. Currently, I'm a software student at Ostim Teknik University,
+            based in Ankara, Turkey. Alongside my studies, I enjoy diving into the world of content creation,
+            particularly video editing.
+        </p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <p>
+            I have a passion for software development and am constantly learning and growing in this field.
+            Additionally, I have expertise in video editing, bringing creativity to visual storytelling.
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Campeh | Ankara, Turkey</p>
+    </footer>
+
+</body>
+</html>
